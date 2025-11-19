@@ -1,0 +1,22 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: 2025-11-19T08:07:20.460702559+08:00
+from:
+  id-type: crev
+  id: _Jivq6KXwH7-eWacoAdAvmJXA2CT2NdIES5BmP8Nq3k
+  url: https://github.com/real-LiHua/crev-proofs
+package:
+  source: https://crates.io
+  name: log
+  version: 0.4.28
+  revision: 6e1735597bb21c5d979a077395df85e1d633e077
+  digest: H5sRVduao9efz9WoXj18lWcfTU4CpOz9_FqL1dUQ_BU
+review:
+  thoroughness: low
+  understanding: high
+  rating: positive
+----- SIGN CREV PROOF -----
+V3yjr68xq4nvmd7t8nbMbC5XwV0MhyE4h4dYHTzbJ0CzyhkrhjCS2rhTyDE2G1c4bUvEsMIjnge3rXM9OaDGAA
+----- END CREV PROOF -----
+

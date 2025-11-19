@@ -94,3 +94,25 @@ issues:
 a9Vd2uBsgfHkBPhmFT9Gyf1dB6EsfI7kH-8EKtzm-eIafLHo-aXKNS_YWpnDxh0qZOX9RqYJnETsM-ulV1LpAQ
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: 2025-11-19T10:50:31.274163852+08:00
+from:
+  id-type: crev
+  id: _Jivq6KXwH7-eWacoAdAvmJXA2CT2NdIES5BmP8Nq3k
+  url: https://github.com/real-LiHua/crev-proofs
+package:
+  source: https://crates.io
+  name: iana-time-zone
+  version: 0.1.64
+  revision: 2a3665eb8abc89c84c0c9965977093b96c13b189
+  digest: rko_ZUVpzFhdyEtsGQFHx2_qPbursZFCvNrjWLQqpaY
+review:
+  thoroughness: low
+  understanding: high
+  rating: positive
+----- SIGN CREV PROOF -----
+sIqFFBiH4T-sK0c1k32pD3PKOb4GDNTc-TEMgAvf06r7lupD8-mkn0DiVtoNaTxTmnLoRDng739e1gorRQ8RBw
+----- END CREV PROOF -----
+

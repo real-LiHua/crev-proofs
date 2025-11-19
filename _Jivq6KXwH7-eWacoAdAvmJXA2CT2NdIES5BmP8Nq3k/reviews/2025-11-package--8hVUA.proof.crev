@@ -116,3 +116,25 @@ review:
 sIqFFBiH4T-sK0c1k32pD3PKOb4GDNTc-TEMgAvf06r7lupD8-mkn0DiVtoNaTxTmnLoRDng739e1gorRQ8RBw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: 2025-11-19T17:58:48.352159597+08:00
+from:
+  id-type: crev
+  id: _Jivq6KXwH7-eWacoAdAvmJXA2CT2NdIES5BmP8Nq3k
+  url: https://github.com/real-LiHua/crev-proofs
+package:
+  source: https://crates.io
+  name: glass_pumpkin
+  version: 1.9.0
+  revision: 88c804fe97404db36684bda05b4be0193b5d0699
+  digest: viXqfwxgYkacAAPa_MTm3js5Xh2Iw4TncvBrkV-FKmM
+review:
+  thoroughness: low
+  understanding: high
+  rating: positive
+----- SIGN CREV PROOF -----
+iJ6sFlum5ASq2KY6VefHJl4YixAi_iHzvD0LcH27nkUAzpUPT_9J_Vquu8PZOIgiAxOtBJan3SVCbs2a9DzhCA
+----- END CREV PROOF -----
+

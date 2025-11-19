@@ -278,3 +278,25 @@ review:
 I9RZ706byQnDiEw0c5E67CPWXZV1MuT1xaa7JKneHabTiXuSfZxTRuOgpem5sKoEODWhN3MuoYgo75sOTe-SBw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: 2025-11-20T04:03:30.714887527+08:00
+from:
+  id-type: crev
+  id: _Jivq6KXwH7-eWacoAdAvmJXA2CT2NdIES5BmP8Nq3k
+  url: https://github.com/real-LiHua/crev-proofs
+package:
+  source: https://crates.io
+  name: grammers-crypto
+  version: 0.8.0
+  revision: 164bffc3d988955539fffe4faa3473d28a505cdf
+  digest: y3PWyzIGde9LeHxUPoonoMs8Th0xGa-_e8WLZRvqCog
+review:
+  thoroughness: low
+  understanding: high
+  rating: positive
+----- SIGN CREV PROOF -----
+_G-3EJHXLgTyave9HipvBMz9YWk2V7Chg7fmu0H0E1t4TQM7Tq55FvJcTRgwpPf76jNwRugxETS7F586ppvjCQ
+----- END CREV PROOF -----
+

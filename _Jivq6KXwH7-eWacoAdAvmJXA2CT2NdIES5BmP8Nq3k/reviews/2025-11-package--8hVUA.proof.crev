@@ -68,3 +68,29 @@ issues:
 irgG2yriqetSaefXZWU6QOVlCCNrO9VhR35enBB4x3GXZX8zuZIeIRERbOaUdYxzpG60N2Z9ISjnRblKiAa1Aw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: 2025-11-19T09:31:19.624681570+08:00
+from:
+  id-type: crev
+  id: _Jivq6KXwH7-eWacoAdAvmJXA2CT2NdIES5BmP8Nq3k
+  url: https://github.com/real-LiHua/crev-proofs
+package:
+  source: https://crates.io
+  name: os_info
+  version: 3.13.0
+  revision: ac803e4783d063ee16f70989b95d0bc9999b0b47
+  digest: CFhEDLOmTn7r6O7UGUozyX3IFhenPev4C9KwtfFrOYc
+review:
+  thoroughness: low
+  understanding: high
+  rating: negative
+issues:
+- id: https://github.com/stanislav-tkach/os_info/issues/410
+  severity: low
+  comment: Ubuntu version not comming as expected
+----- SIGN CREV PROOF -----
+a9Vd2uBsgfHkBPhmFT9Gyf1dB6EsfI7kH-8EKtzm-eIafLHo-aXKNS_YWpnDxh0qZOX9RqYJnETsM-ulV1LpAQ
+----- END CREV PROOF -----
+

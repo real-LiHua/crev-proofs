@@ -42,3 +42,29 @@ review:
 A7tCWBx1cLhN5nnohAk3tKUOHidMGHYzL04MEc-21xoO8nnmRp6nSq45hGsuRNyAbCS2b8BpPiKr8XIxk0SGCg
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: 2025-11-19T09:25:03.978293823+08:00
+from:
+  id-type: crev
+  id: _Jivq6KXwH7-eWacoAdAvmJXA2CT2NdIES5BmP8Nq3k
+  url: https://github.com/real-LiHua/crev-proofs
+package:
+  source: https://crates.io
+  name: os_info
+  version: 3.13.0
+  revision: ac803e4783d063ee16f70989b95d0bc9999b0b47
+  digest: CFhEDLOmTn7r6O7UGUozyX3IFhenPev4C9KwtfFrOYc
+review:
+  thoroughness: low
+  understanding: high
+  rating: negative
+issues:
+- id: '410'
+  severity: low
+  comment: ''
+----- SIGN CREV PROOF -----
+irgG2yriqetSaefXZWU6QOVlCCNrO9VhR35enBB4x3GXZX8zuZIeIRERbOaUdYxzpG60N2Z9ISjnRblKiAa1Aw
+----- END CREV PROOF -----
+

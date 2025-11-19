@@ -1,0 +1,19 @@
+----- BEGIN CREV PROOF -----
+kind: trust
+version: -1
+date: 2025-11-19T09:48:34.848813210+08:00
+from:
+  id-type: crev
+  id: _Jivq6KXwH7-eWacoAdAvmJXA2CT2NdIES5BmP8Nq3k
+  url: https://github.com/real-LiHua/crev-proofs
+ids:
+- id-type: crev
+  id: FYlr8YoYGVvDwHQxqEIs89reKKDy-oWisoO0qXXEfHE
+  url: https://github.com/dpc/crev-proofs
+trust: medium
+comment: |-
+  crev dev
+----- SIGN CREV PROOF -----
+AkkMJNdnJ36HllGc3okPe3FFYbvdXQV_iyPqx2Tw1C4hmf5C5ymf8DE4ubmhIhQ4CLcP74rD8PkpRgZahJJFAw
+----- END CREV PROOF -----
+

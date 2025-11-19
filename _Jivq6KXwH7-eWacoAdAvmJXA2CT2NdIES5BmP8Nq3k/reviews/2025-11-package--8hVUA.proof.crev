@@ -138,3 +138,31 @@ review:
 iJ6sFlum5ASq2KY6VefHJl4YixAi_iHzvD0LcH27nkUAzpUPT_9J_Vquu8PZOIgiAxOtBJan3SVCbs2a9DzhCA
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: 2025-11-19T21:23:33.659829523+08:00
+from:
+  id-type: crev
+  id: _Jivq6KXwH7-eWacoAdAvmJXA2CT2NdIES5BmP8Nq3k
+  url: https://github.com/real-LiHua/crev-proofs
+package:
+  source: https://crates.io
+  name: md5
+  version: 0.8.0
+  revision: f36c8ac842d4d828298d28330e507477e0836131
+  digest: Uuq7gEC3r3G4SzusB49boVu173Xwv2aC5IkqmC0jyzE
+package-diff-base:
+  source: https://crates.io
+  name: md5
+  version: 0.6.1
+  revision: 819eb007d1326a2f145cef8f2c519dfa017b6a71
+  digest: T6kQhICVNSppeY9U6AWPgzHiBKqWxLJHEFyIESwQWi8
+review:
+  thoroughness: low
+  understanding: high
+  rating: positive
+----- SIGN CREV PROOF -----
+UMYSHAkHGCA7mXdwMBSqjxgbJf-J3Z4x_VagRby-P9k7SKyrBSLlR87c9K_hhWyrugzTCopSKDq9DQIY1RdJDg
+----- END CREV PROOF -----
+

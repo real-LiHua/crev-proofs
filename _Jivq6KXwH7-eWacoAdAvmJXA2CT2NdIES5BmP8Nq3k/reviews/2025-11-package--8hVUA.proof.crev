@@ -194,3 +194,31 @@ review:
 iHl49A-hkbiHBThEfIiWlFKDGC1Sikv_JXvc0dgboDl-ZG98CBLHYeab_2lX0PXwunPgiKgNm8hdiPBRRm4TDg
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: 2025-11-19T21:30:28.731683041+08:00
+from:
+  id-type: crev
+  id: _Jivq6KXwH7-eWacoAdAvmJXA2CT2NdIES5BmP8Nq3k
+  url: https://github.com/real-LiHua/crev-proofs
+package:
+  source: https://crates.io
+  name: core-foundation-sys
+  version: 0.8.7
+  revision: 652bab0a62d87df8a974ffad2ad9f7be218a8b56
+  digest: d3jpcK2fVdnP_1o5JMYZud0YvxYaRmCeQDxby6M0_Lc
+package-diff-base:
+  source: https://crates.io
+  name: core-foundation-sys
+  version: 0.8.6
+  revision: 64dd01a6a951ccc12bb707a5882549d4e80b8249
+  digest: NCv_CDlYhQDxRru30OcrbvNPzdqpSjJkhfduHqnalfY
+review:
+  thoroughness: low
+  understanding: high
+  rating: positive
+----- SIGN CREV PROOF -----
+5PFqm2MV0t3xd2VYRzJ7UXhSVFrbir7KrrLMPEi_CSRd5MCtvIa-DrIwL4TqXG9tRG8CcBlt3d3jlinSNg6kAA
+----- END CREV PROOF -----
+

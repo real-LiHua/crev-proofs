@@ -300,3 +300,25 @@ review:
 _G-3EJHXLgTyave9HipvBMz9YWk2V7Chg7fmu0H0E1t4TQM7Tq55FvJcTRgwpPf76jNwRugxETS7F586ppvjCQ
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: 2025-11-20T04:08:18.201524944+08:00
+from:
+  id-type: crev
+  id: _Jivq6KXwH7-eWacoAdAvmJXA2CT2NdIES5BmP8Nq3k
+  url: https://github.com/real-LiHua/crev-proofs
+package:
+  source: https://crates.io
+  name: grammers-mtsender
+  version: 0.8.1
+  revision: c2ce2fd4f643ec7026fd99abd9fff623abe92600
+  digest: nH107PT10kyhk4r716IFiOPLEBxFiiaJe7JvMrJqSq8
+review:
+  thoroughness: low
+  understanding: medium
+  rating: positive
+----- SIGN CREV PROOF -----
+rithxS9c9h7v-MM1jy8u9C_s9GrGuYi_k5kTjSfCTaQ5EWC6YWZkCn0b-aN98rLSaG1e_EyR9-jgoyurN63qCA
+----- END CREV PROOF -----
+

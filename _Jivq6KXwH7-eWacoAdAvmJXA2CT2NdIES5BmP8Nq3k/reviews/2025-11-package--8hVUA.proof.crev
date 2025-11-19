@@ -166,3 +166,31 @@ review:
 UMYSHAkHGCA7mXdwMBSqjxgbJf-J3Z4x_VagRby-P9k7SKyrBSLlR87c9K_hhWyrugzTCopSKDq9DQIY1RdJDg
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: 2025-11-19T21:27:32.978355317+08:00
+from:
+  id-type: crev
+  id: _Jivq6KXwH7-eWacoAdAvmJXA2CT2NdIES5BmP8Nq3k
+  url: https://github.com/real-LiHua/crev-proofs
+package:
+  source: https://crates.io
+  name: rand
+  version: 0.8.5
+  revision: 937320cbfeebd4352a23086d9c6e68f067f74644
+  digest: 1wPno9dtNq20qLjfd80N9jm6QUKBoDi17QbXO2Q2j0k
+package-diff-base:
+  source: https://crates.io
+  name: rand
+  version: 0.8.3
+  revision: 6ecbe2626b2cc6110a25c97b1702b347574febc7
+  digest: 88tm1d-otoQDegGibfUouuBzJk64A4stV4TxJCANRZ0
+review:
+  thoroughness: low
+  understanding: medium
+  rating: positive
+----- SIGN CREV PROOF -----
+iHl49A-hkbiHBThEfIiWlFKDGC1Sikv_JXvc0dgboDl-ZG98CBLHYeab_2lX0PXwunPgiKgNm8hdiPBRRm4TDg
+----- END CREV PROOF -----
+
